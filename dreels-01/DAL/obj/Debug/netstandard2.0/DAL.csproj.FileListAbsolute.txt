@@ -1,0 +1,9 @@
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\bin\Debug\netstandard2.0\DAL.dll
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\bin\Debug\netstandard2.0\DAL.pdb
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.dll
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\DAL\obj\Debug\netstandard2.0\DAL.pdb

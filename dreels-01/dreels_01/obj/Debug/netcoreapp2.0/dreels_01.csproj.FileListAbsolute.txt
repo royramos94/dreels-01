@@ -1,0 +1,14 @@
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\dreels_01.deps.json
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\dreels_01.runtimeconfig.json
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\dreels_01.runtimeconfig.dev.json
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\dreels_01.dll
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\dreels_01.pdb
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\DAL.dll
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\bin\Debug\netcoreapp2.0\DAL.pdb
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.csprojAssemblyReference.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.csproj.CoreCompileInputs.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.AssemblyInfoInputs.cache
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.AssemblyInfo.cs
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.csproj.CopyComplete
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.dll
+c:\users\r.ramos\documents\visual studio 2017\Projects\dreels-01\dreels-01\dreels_01\obj\Debug\netcoreapp2.0\dreels_01.pdb

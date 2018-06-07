@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7581CD4F-C486-4E01-8EA1-185368FEAA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dreels_01", "dreels-01\dreels_01\dreels_01.csproj", "{5B21E962-59D1-4605-9258-5E0F12A62E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "dreels-01\DAL\DAL.csproj", "{C161A322-B0EB-4238-9334-1A9B63B2BE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B21E962-59D1-4605-9258-5E0F12A62E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B21E962-59D1-4605-9258-5E0F12A62E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B21E962-59D1-4605-9258-5E0F12A62E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B21E962-59D1-4605-9258-5E0F12A62E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C161A322-B0EB-4238-9334-1A9B63B2BE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C161A322-B0EB-4238-9334-1A9B63B2BE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C161A322-B0EB-4238-9334-1A9B63B2BE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C161A322-B0EB-4238-9334-1A9B63B2BE02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B21E962-59D1-4605-9258-5E0F12A62E41} = {7581CD4F-C486-4E01-8EA1-185368FEAA42}
+		{C161A322-B0EB-4238-9334-1A9B63B2BE02} = {7581CD4F-C486-4E01-8EA1-185368FEAA42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69C9F21-9AF3-40D9-954F-43E7EA4ADCF6}
+	EndGlobalSection
+EndGlobal
